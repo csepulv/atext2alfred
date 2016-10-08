@@ -1,0 +1,16 @@
+{
+  "name": "atext2alfred",
+  "version": "1.0.0",
+  "description": "Convert aText CSV to Alfred Snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "fast-csv": "^2.3.0",
+    "node-uuid": "^1.4.7"
+  }
+}
